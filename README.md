@@ -10,6 +10,9 @@
 
 
 <br>
+-I'm undergraduate at **university of kelaniya**
+
+-My subjects are **computer science** and **statistics**
 
 - 🌱 I’m currently learning **MERN**
 
@@ -17,7 +20,6 @@
 
 - 📫 How to reach me **sadb8574@gmail.com**
 
-<
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -64,7 +66,13 @@
 </p>        
 <!--- stats (end) -->
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="middle">
+<a href="https://linkedin.com/in/chamith madhusanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamith madhusanka" height="30" width="40" /></a>
+<a href="https://fb.com/chamith madusanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamith madusanka" height="30" width="40" /></a>
+<a href="https://instagram.com/chamith_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamith_2002" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/chamith madusanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chamith madusanka" height="30" width="40" /></a>
+</p>
  
 
 

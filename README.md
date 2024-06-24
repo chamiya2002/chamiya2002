@@ -6,7 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamiya2002&label=Profile%20views&color=0e75b6&style=flat" alt="chamiya2002" /> </p>
 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
 
 - 🌱 I’m currently learning **MERN**
 
